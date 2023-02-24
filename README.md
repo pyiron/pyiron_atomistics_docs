@@ -32,9 +32,9 @@ This repository was created as result of the documentation Hackathon https://pad
         - [generalized dipole](https://github.com/pyiron/pyiron_generalized_dipole)
 
 # Tasks
-[] Revise tutorials
+[ ] Revise tutorials
 [x] Set-up repository
-[] We work on discussion-basis - We set up meetings as we feel it's needed
+[ ] We work on discussion-basis - We set up meetings as we feel it's needed
 
 # Lessons Learned
 - Use a separate repository for the documentation process
