@@ -19,6 +19,16 @@ This repository was created as result of the documentation Hackathon https://pad
     - [NIST-workshop-2020](https://github.com/pyiron/NIST-workshop-2020)
     - [ADIS-workshop-2020](https://github.com/pyiron/ADIS-workshop-2020)
     - [handbook](https://github.com/eisenforschung/pyiron-meeting-mpie/tree/master/handbook)
+    - [high entropy elastic constants](https://github.com/pyiron-dev/pyiron-no-file-access)
+    - [phono3py](https://github.com/pyiron-dev/phono3py_pyiron)
+    - [quantum-espresso](https://github.com/pyiron-dev/pyiron-quantum-espresso)
+    - [cp2k](https://github.com/pyiron-dev/pyiron-cp2k)
+    - [randspg](https://github.com/pyiron-dev/pyiron-randspg)
+    - [fit moment tensor potential](https://github.com/pyiron-dev/pyiron-mlip)
+    - [aimsgb](https://github.com/pyiron-dev/pyiron-aimsgb)
+    - [lammps script](https://github.com/pyiron-dev/pyiron-free-energy)
+    - [fit lennard jones](https://github.com/pyiron-dev/pyiron-fitting-example)
+    - [langevin](https://github.com/pyiron-dev/pyiron-md-example)
 - API Reference
 - Developer guide
 - Application Topics
