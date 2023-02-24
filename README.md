@@ -31,6 +31,38 @@ This repository was created as result of the documentation Hackathon https://pad
         - [md montecarlo](https://github.com/pyiron/pyiron_md_montecarlo)
         - [generalized dipole](https://github.com/pyiron/pyiron_generalized_dipole)
 
+# Topics to include:
+
+- Structure Generation 
+    - grainboundaries 
+    - sqs structures
+    - ASE structures
+    - water structure 
+    - Randspg structures 
+    - Analysis:
+        - CNA, aCNA
+        - Vacancy
+        - Neighbours
+
+- Simulation Codes
+    It's important to also address this to advanced users of resp. code
+    - LAMMPS 
+    - Sphinx 
+    - VASP 
+    - GPAW 
+
+- Material Properties 
+    - Quasi-harmonic Approximation 
+    - Elastic Constants 
+    - Murnaghan 
+    - Stacking faults 
+    - Paramagnetic structures 
+    - Phase diagrams 
+    - interface energies 
+    - solutes (interstitial & substitutional) at grainboundaries 
+    - fitting machine learning potentials 
+    - thermodynamic integration 
+
 # Tasks
 * [ ] Revise tutorials
 * [x] Set-up repository
