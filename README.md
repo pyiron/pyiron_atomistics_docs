@@ -30,6 +30,8 @@ This repository was created as result of the documentation Hackathon https://pad
         - [DFT uncertainty](https://github.com/pyiron/pyiron-dft-uncertainty)
         - [md montecarlo](https://github.com/pyiron/pyiron_md_montecarlo)
         - [generalized dipole](https://github.com/pyiron/pyiron_generalized_dipole)
+        - [spin_space_averaging](https://github.com/pyiron/spin_space_averaging)
+        - [magnesium-mtp-training-data](https://github.com/eisenforschung/magnesium-mtp-training-data)
 
 # Topics to include:
 
